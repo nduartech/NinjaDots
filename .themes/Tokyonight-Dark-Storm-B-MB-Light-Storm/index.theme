@@ -1,0 +1,12 @@
+Type=X-GNOME-Metatheme
+[Desktop Entry]
+Name=Tokyonight-Dark-Storm-B-MB-Light-Storm
+Comment=An Flat Gtk+ theme based on Elegant Design
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Tokyonight-Dark-Storm-B-MB-Light-Storm
+MetacityTheme=Tokyonight-Dark-Storm-B-MB-Light-Storm
+IconTheme=Tela-circle
+CursorTheme=Tokyonight-Dark-Storm-B-MB-cursors
+ButtonLayout=close,minimize,maximize:menu

@@ -20,6 +20,7 @@ Setup:
 - ly.sh display manager
 - picom for transparency, rounded corners, and blur
 - ~~warp-terminal* (must use Inconsolata Nerd Font, size 11, line height 1.3)~~ ~~alacritty~~ ~~wezterm~~ kitty with ble.sh
+- gitui
 - neovim*
 - starship.rs(*, only kinda)
 - spotify-player-full-pipe*

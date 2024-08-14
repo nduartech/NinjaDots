@@ -173,7 +173,7 @@ return {
     config = function()
       require("ufo").setup({
         provider_selector = function(bufnr, filetype, buftype)
-          if filetype == "go" or filetype == "lua" then
+          if filetype == "go" or filetype == "lua" or filetype == "python" then
             return { "treesitter" }
           else
             return { "lsp" }

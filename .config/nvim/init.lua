@@ -18,6 +18,7 @@ vim.cmd("set tabstop=2")
 vim.cmd("set softtabstop=2")
 vim.cmd("set shiftwidth=2")
 vim.cmd("set linebreak")
+vim.cmd("set mousescroll=ver:30")
 -- vim.cmd("set so=999")
 -- vim.cmd("nnoremap k kzz")
 -- vim.cmd("nnoremap j jzz")
@@ -62,7 +63,7 @@ require("tokyonight").setup({
   plugins = {
     auto = true
   },
-  transparent = true,
+  transparent = false,
 })
 
 vim.cmd.colorscheme("tokyonight-storm")

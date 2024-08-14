@@ -11,7 +11,7 @@ cat -> bat
 
 Theme:
 --------------------
-Tokyo Night Storm (* where applicable, use dipc to format background)
+Tokyo Night Storm (* where applicable, ~~use dipc to format background~~)
 
 
 Setup:
